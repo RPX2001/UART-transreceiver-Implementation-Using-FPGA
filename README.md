@@ -23,10 +23,10 @@ This repository contains the implementation of a UART transceiver using FPGA. Th
 ## Repository Structure
 
 - `src/`: Contains the Verilog code for the UART transmitter and receiver.
-  - `uart_tx.v`: Verilog code for the UART transmitter.
-  - `uart_rx.v`: Verilog code for the UART receiver.
+  - `transmitter.v`: Verilog code for the UART transmitter.
+  - `receiver.v`: Verilog code for the UART receiver.
 - `testbench/`: Contains the testbench code for simulating the UART transceiver.
-  - `uart_tb.v`: Testbench for the UART transceiver.
+  - `uart_TB.v`: Testbench for the UART transceiver.
 - `simulation/`: Contains the simulation files and results.
 - `quartus/`: Contains Quartus Prime Lite project files.
 - `docs/`: Documentation files, including this README and any additional guides or manuals.
