@@ -31,11 +31,11 @@ This repository contains the implementation of a UART transceiver using FPGA. Th
 - `quartus/`: Contains Quartus Prime Lite project files.
 - `docs/`: Documentation files, including this README and any additional guides or manuals.
 
-## Getting Started
+## Contributors
 
-### Prerequisites
+- [Raveen Pramuditha](https://github.com/RPX2001)
+- [Collaborator Name](https://github.com/collaboratorusername)
 
-- **Hardware:** FPGA board with UART support.
-- **Software:** Quartus Prime Lite (free edition).
+## License
 
-
+This project is licensed under the [MIT License](LICENSE).
