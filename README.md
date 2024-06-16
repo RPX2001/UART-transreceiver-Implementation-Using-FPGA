@@ -35,6 +35,7 @@ This repository contains the implementation of a UART transceiver using FPGA. Th
 
 - [Raveen Pramuditha](https://github.com/RPX2001)
 - [Chandipa Janith](https://github.com/ChandeepaJanithPeiris)
+- [Mavishan Pasira](https://github.com/Pasiramavishan)
 
 ## License
 
