@@ -1,6 +1,6 @@
 # UART-transreceiver-Implementation-Using-FPGA
 
-This repository contains the implementation of a UART transceiver using FPGA. The project includes the design of both the transmitter and receiver using Verilog in Quartus Prime Lite software. We have also created a testbench for the transceiver and simulated it before uploading the code to the FPGA. Finally, we assigned pins and used push buttons to observe UART communication between two FPGAs.
+This repository contains the implementation of a UART transceiver using FPGA. The project includes the design of both the transmitter and receiver using Verilog in Quartus Prime Lite software. We have also created a testbench for the transceiver and simulated it before uploading the code to the FPGA. Finally, we assigned the pins and used push buttons to observe UART communication between two FPGAs.
 
 ## Project Overview
 
